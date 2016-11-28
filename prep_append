@@ -1,0 +1,8 @@
+find . -name \*.jar -type f -delete
+mkdir runtest
+
+
+python3 /usr/share/java-utils/pom_editor.py pom_xpath_remove "pom:profile[pom:id='default-tools']"
+python3 /usr/share/java-utils/pom_editor.py pom_add_dep com.sun:tools
+python3 /usr/share/java-utils/mvn_file.py : javassist
+python3 /usr/share/java-utils/mvn_alias.py : javassist:javassist

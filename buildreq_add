@@ -1,0 +1,32 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+apache-maven2
+jdk-apache-parent
+jdk-commons-beanutils
+jdk-commons-collections
+jdk-commons-compress
+jdk-commons-digester
+jdk-commons-validator
+jdk-eclipse-eclipse
+jdk-eclipse-osgi
+jdk-eclipse-osgi-services
+jdk-felix
+jdk-felix-osgi-foundation
+jdk-glassfish-servlet-api
+jdk-maven-compiler-plugin
+jdk-maven-filtering
+jdk-maven-javadoc-plugin
+jdk-maven-reporting-api
+jdk-maven-resources-plugin
+jdk-maven-shared-utils
+jdk-maven-source-plugin
+jdk-osgi-compendium
+jdk-plexus-archiver
+jdk-plexus-i18n
+jdk-plexus-io
+jdk-plexus-velocity
+jdk-snappy-java
+jdk-surefire
+jdk-velocity
+jdk-xbean
+jdk-xmlunit
