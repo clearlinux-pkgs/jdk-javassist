@@ -4,7 +4,7 @@
 #
 Name     : jdk-javassist
 Version  : 3_18_1_ga
-Release  : 1
+Release  : 2
 URL      : http://github.com/jboss-javassist/javassist/archive/rel_3_18_1_ga.tar.gz
 Source0  : http://github.com/jboss-javassist/javassist/archive/rel_3_18_1_ga.tar.gz
 Summary  : No detailed summary available
